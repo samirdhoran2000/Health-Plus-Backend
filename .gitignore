@@ -1,0 +1,59 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+logs/*.log
+
+# Environment variables
+.env
+
+# IDE / Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# MacOS files
+.DS_Store
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Test coverage directory
+coverage/
+
+# Build output
+dist/
+build/
+
+# PM2 Logs
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary files
+tmp/
+temp/
+
+# Dependency directories
+jspm_packages/
+
+# Bower dependency directory
+bower_components/
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Heroku files
+Procfile
