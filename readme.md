@@ -34,8 +34,8 @@ Make sure you have the following installed on your system:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/samirdhoran2000/health-plus.git
-   cd health-plus
+   [git clone https://github.com/samirdhoran2000/Health-Plus-Backend.git](https://github.com/samirdhoran2000/Health-Plus-Backend.git)
+   cd Health-Plus-Backend
    ```
 
 2. **Install dependencies**:
